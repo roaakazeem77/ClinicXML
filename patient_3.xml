@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Clinic>
+  <Patient>
+    <Id>3</Id>
+    <FirstName>ahmad</FirstName>
+    <LastName>hamada</LastName>
+    <Gender>Male</Gender>
+    <Address>Hebron</Address>
+    <MobileNo>0599335552</MobileNo>
+    <Birthdate>1997-08-12</Birthdate>
+    <Visits>
+      <Visit>
+        <Diagnosis>Diabetes Check</Diagnosis>
+        <Treatment>Insulin Therapy</Treatment>
+        <Alergies>None</Alergies>
+        <VisitDate>2026-05-13</VisitDate>
+      </Visit>
+    </Visits>
+  </Patient>
+</Clinic>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<Clinic>
+  <Patient>
+    <Id>2</Id>
+    <FirstName>Ruba</FirstName>
+    <LastName>shamas</LastName>
+    <Gender>Female</Gender>
+    <Address>Bethlehem</Address>
+    <MobileNo>0599366422</MobileNo>
+    <Birthdate>1995-05-18</Birthdate>
+    <Visits>
+      <Visit>
+        <Diagnosis>Asthma</Diagnosis>
+        <Treatment>Inhaler</Treatment>
+        <Alergies>Dust</Alergies>
+        <VisitDate>2026-05-11</VisitDate>
+      </Visit>
+    </Visits>
+  </Patient>
+</Clinic>

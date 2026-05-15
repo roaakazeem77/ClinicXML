@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<Clinic>
+  <Patient>
+    <Id>1</Id>
+    <FirstName>Sarah</FirstName>
+    <LastName>alnatshah</LastName>
+    <Gender>Female</Gender>
+    <Address>Hebron</Address>
+    <MobileNo>0599334422</MobileNo>
+    <Birthdate>1984-07-10</Birthdate>
+    <Visits>
+      <Visit>
+        <Diagnosis>Headache</Diagnosis>
+        <Treatment>Ibuprofen</Treatment>
+        <Alergies>None</Alergies>
+        <VisitDate>2026-05-05</VisitDate>
+      </Visit>
+      <Visit>
+        <Diagnosis>Flu</Diagnosis>
+        <Treatment>Paracetamol</Treatment>
+        <Alergies>None</Alergies>
+        <VisitDate>2026-05-03</VisitDate>
+      </Visit>
+    </Visits>
+  </Patient>
+</Clinic>
